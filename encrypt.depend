@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1582481998 source:/home/lonestar/Desktop/C++ MiniProject/encrypt/main.cpp
+	<bits/stdc++.h>
+	<unistd.h>
+
